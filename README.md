@@ -21,6 +21,14 @@ A lightning fast disposable chat service without any storage integration with th
 
 <br />
 
-🔗https://iboard.azurewebsites.net (ALPHA)
+🔗 https://iboard.azurewebsites.net (ALPHA)
 
 An experimental work to enable collaborative code editing inspired by [CodePen's Collab Mode](https://blog.codepen.io/documentation/pro-features/collab-mode/). 🤝
+
+P/S: 16 Nov UPDATE | The [NEW Teletype<sup>beta</sup> for Atom](https://teletype.atom.io/) is AWESOME!!! 💫
+
+<br />
+
+🔗 https://color-splash.azurewebsites.net (BETA)
+
+An experimental work to allow full-screen color sync on multiple connected clients and swipe/pan to change color, MAGIC! This is useful to determine color accuracy for different displays in reproducing the same color code. 🖍
