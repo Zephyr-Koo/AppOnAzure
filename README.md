@@ -29,12 +29,12 @@ P/S: 16 Nov UPDATE | The [NEW Teletype<sup>beta</sup> for Atom](https://teletype
 
 <br />
 
-🔗 https://color-splash.azurewebsites.net (BETA)
+🔗 https://color-splash.azurewebsites.net
 
 An experimental work to allow full-screen color sync on multiple connected clients and swipe/pan to change color, MAGIC! This is useful to determine color accuracy for different displays in reproducing the same color code. 🖍
 
 <br />
 
-🔗 https://maybank2upay-sdk.azurewebsites.net (BETA)
+🔗 https://maybank2upay-sdk.azurewebsites.net
 
-An attempt to port official [Maybank2uPay](https://m2upay.maybank2u.com.my/sdk) Java SDK in .NET with C#. ⚗️
+An attempt to port official [Maybank2uPay](https://m2upay.maybank2u.com.my/sdk) Java SDK in .NET with C# which covered by over 10 unit tests. ⚗️
