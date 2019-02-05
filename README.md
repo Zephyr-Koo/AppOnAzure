@@ -38,3 +38,9 @@ An experimental work to allow full-screen color sync on multiple connected clien
 🔗 https://maybank2upay-sdk.azurewebsites.net
 
 An attempt to port official [Maybank2uPay](https://m2upay.maybank2u.com.my/sdk) Java SDK in .NET with C# which covered by over 10 unit tests. ⚗️
+
+<br />
+
+🔗 https://ocr2u.azurewebsites.net
+
+A proof-of-concept to showcase Azure Cognitive Service × Computer Vision with optical character recognition (OCR) capability which support both desktop and mobile browsers (e.g. Chrome for Android and ~~Safari for iOS~~).
