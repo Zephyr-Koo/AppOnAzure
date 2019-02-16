@@ -5,7 +5,7 @@ Here are some of my personal projects while exploring on the cloud @ Azure. ✈
 
 🔗 https://dfs-farewell-2016.azurewebsites.net
 
-A farewell page dedicated to the [DFS](http://www.dynafront.com/) family. ❤
+A farewell page dedicated to [DFS](http://www.dynafront.com/) family. ❤
 
 <br />
 
@@ -43,4 +43,4 @@ An attempt to port official [Maybank2uPay](https://m2upay.maybank2u.com.my/sdk) 
 
 🔗 https://ocr2u.azurewebsites.net
 
-A proof-of-concept to showcase Azure Cognitive Service × Computer Vision with optical character recognition (OCR) capability which support both desktop and mobile browsers (e.g. Chrome for Android and ~~Safari for iOS~~).
+A proof-of-concept to showcase Azure Cognitive Service × Computer Vision with optical character recognition (OCR) capability which support both desktop and mobile browsers (e.g. Chrome for Android ~~and Safari for iOS~~).
